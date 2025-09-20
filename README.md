@@ -13,4 +13,6 @@
   <li>ngspice</li>
   <li>OpenLane</li>
   <li>OpenSTA</li>
+# Yosys-Open Synthesis suite
+  Yosys (Yosys Open SYnthesis Suite) is a foundational open-source tool for performing digital hardware synthesis. It translates higher-level hardware description languages (HDL), primarily Verilog, into a lower-level, gate-level netlist. 
 </details>
