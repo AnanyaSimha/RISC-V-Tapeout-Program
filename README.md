@@ -6,10 +6,10 @@
   </p>
 <ol>
   <li>Yosys</li>
-  <li>magic</li>
-  <li>OpenLANE</li>
-  <li>lverilog</li>
+  <li>iverilog</li>
   <li>gtkwave</li>
+  <li>magic</li>
   <li>ngspice</li>
+  <li>OpenLane</li>
   <li>OpenSTA</li>
 
