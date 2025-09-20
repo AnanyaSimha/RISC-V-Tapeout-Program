@@ -38,7 +38,7 @@ sudo apt-get install iverilog     </pre>
   </p>
 
   <h2>gtkwave</h2>
-  GTKWave is an open-source, cross-platform waveform viewer used primarily for debugging and verifying digital logic designs. It provides a graphical interface for analyzing the signal data produced by hardware description language (HDL) simulations. Steps to install gtkwave are:
+  gtkwave is an open-source, cross-platform waveform viewer used primarily for debugging and verifying digital logic designs. It provides a graphical interface for analyzing the signal data produced by hardware description language (HDL) simulations. Steps to install gtkwave are:
   <p>
     <pre>sudo apt-get update
 sudo apt-get install iverilog    </pre>
