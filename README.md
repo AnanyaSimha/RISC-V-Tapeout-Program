@@ -1,4 +1,3 @@
-# VSD_Tapeout
-# Yosys
+# RISC-V Tapeout Program
 
 
