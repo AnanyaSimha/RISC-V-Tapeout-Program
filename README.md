@@ -16,7 +16,7 @@
 </ol>
   
 <h2>Yosys Open Synthesis suite</h2>
-  Yosys (Yosys Open SYnthesis Suite) is a foundational open-source tool for performing digital hardware synthesis. It translates higher-level hardware description languages (HDL), primarily Verilog, into a lower-level, gate-level netlist.
+  Yosys (Yosys Open Synthesis Suite) is a foundational open-source tool for performing digital hardware synthesis. It translates higher-level hardware description languages (HDL), primarily Verilog, into a lower-level, gate-level netlist.
   <p>
  <pre>$ git clone https://github.com/YosysHQ/yosys.git 
 $ cd yosys 
@@ -31,15 +31,14 @@ $ sudo make install </pre>
 </p>
 <h2>Iverilog</h2>
 Icarus Verilog, commonly known as iVerilog, is a popular, open-source compiler and simulation tool for the Verilog Hardware Description Language (HDL). 
-  Steps to install iverilog
+  Steps to install iverilog are:
   <p>
     <pre>sudo apt-get update
 sudo apt-get install iverilog     </pre>
   </p>
 
   <h2>gtkwave</h2>
-  GTKWave is an open-source, cross-platform waveform viewer used primarily for debugging and verifying digital logic designs. It provides a graphical interface for analyzing the signal data produced by hardware description language (HDL) simulations.
-  Steps to install gtkwave
+  GTKWave is an open-source, cross-platform waveform viewer used primarily for debugging and verifying digital logic designs. It provides a graphical interface for analyzing the signal data produced by hardware description language (HDL) simulations. Steps to install gtkwave are:
   <p>
     <pre>sudo apt-get update
 sudo apt-get install iverilog    </pre>
